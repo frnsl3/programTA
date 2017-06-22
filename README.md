@@ -6,6 +6,8 @@ Variable used
 2. $tanam = simpan data panen per daerah
 3. $panen = simpan data panen per daerah
 4. $produksi = simpan data produksi per daerah
-5. $normtanam = normalisasi data tanam per produksi
-6. $normpanen = normalisasi data panen per produksi
-7. $normprodu = normalisasi data produksi per produksi
+5. $normtanam = simpan hasil normalisasi data tanam per produksi
+6. $normpanen = simpan hasil normalisasi data panen per produksi
+7. $normprodu = simpan hasil normalisasi data produksi per produksi
+8. $jarak1 = simpan hasil perhitungan jarak dari titik cluster 1 ke objek
+9. $jarak2 = simpan hasil perhitungan jarak dari titik cluster 2 ke objek
